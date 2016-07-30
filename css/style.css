@@ -1,0 +1,14 @@
+html, body {
+	overflow: auto;
+}
+
+body { 
+	margin: 0px 
+}
+canvas { 
+	border: 0px solid black; 
+	margin: 0px; 
+	max-width: 100%; 
+	height: auto; 
+}
+										  
